@@ -1,23 +1,22 @@
 {
-    "cursos":[
-        {
-            "id":1,
-            "title":"HTML",
-            "image": "https://bit.ly/38ZBysd",
-            "price": "4€",
-        },
-        {
-            "id":2,
-            "title":"JAVA",
-            "image": "https://bit.ly/2LqPjI3",
-            "price": "3€"
-        },
-        {
-            "id":3,
-            "title":"CSS",
-            "image": "https://bit.ly/3noCZ8R",
-            "price": "2€"
-        }
-
-  ]
+   "cursos":[
+      {
+         "id":1,
+         "title":"HTML",
+         "image":"https://bit.ly/38ZBysd",
+         "price":"4€"
+      },
+      {
+         "id":2,
+         "title":"JAVA",
+         "image":"https://bit.ly/2LqPjI3",
+         "price":"3€"
+      },
+      {
+         "id":3,
+         "title":"CSS",
+         "image":"https://bit.ly/3noCZ8R",
+         "price":"2€"
+      }
+   ]
 }
